@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------
+    OLT    | ONU |  STATUS  |  Serial No.  | Distance |  Rx Power  |    Profile
+----------------------------------------------------------------------------------
+         1 |   1 |   Active | FRKW1691b2e8 |    605m  | - 16.1 dBm | LAN_LAN_LAN_AP_VOIP 
+         1 |   2 |   Active | FISA4f45733e |    559m  | - 15.5 dBm | AP_AP_AP_AP 
+         1 |   3 |   Active | FRKW1691a980 |    602m  | - 14.8 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |   4 |   Active | FRKW1691add8 |    587m  | - 15.6 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |   5 |   Active | FRKW1691aef0 |    595m  | - 22.5 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |   6 |   Active | FRKW1691b550 |    592m  | - 15.5 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |   7 |   Active | FRKW1691bd78 |    603m  | - 15.3 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |   8 |   Active | FRKW1691aba0 |    604m  | - 17.0 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |   9 |   Active | FRKW1691b0a8 |    605m  | - 14.5 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  10 |   Active | FRKW1691ab20 |    609m  | - 15.8 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  11 |   Active | FRKW1691a990 |    601m  | - 14.8 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  12 |   Active | FRKW1691be38 |    599m  | - 14.7 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  13 |   Active | FRKW1691b3e8 |    606m  | - 15.7 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  14 |   Active | FRKW1691b408 |    601m  | - 17.6 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  15 |   Active | FRKW1691b048 |    596m  | - 15.3 dBm | LAN_LAN_LAN_LAN_VOIP 
+         1 |  16 |   Active | FRKW1691b138 |    599m  | - 14.3 dBm | LAN_LAN_LAN_LAN_VOIP 
